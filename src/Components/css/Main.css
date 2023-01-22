@@ -1,0 +1,142 @@
+.header-h1 {
+    color: rgb(19, 94, 129);
+    font-family: 'Roboto Condensed', sans-serif;
+    text-align: left;
+    text-transform: uppercase;
+    /* border-style: solid; */
+    margin: auto;
+    padding-left: 5%;
+    /* border-radius: 15px; */
+
+
+}
+
+@media screen and (max-width:900px) {
+    .header-h1 {
+        text-align: center;
+    }
+}
+
+
+.container-banner {
+    background-color: #cabebe;
+    text-align: center;
+    border-style: hidden;
+    border-radius: 15px;
+    font-family: 'Ruda', sans-serif;
+    display: flex;
+    margin: 30px auto;
+    width: 70%;
+    text-align: center;
+    justify-content: space-around;
+    padding-left: 3%;
+
+}
+
+
+
+.biosec {
+    display: flex;
+    align-content: space-between;
+}
+
+
+
+.biosec h3 {
+    padding-left: 2%;
+    padding-right: 3%;
+}
+
+.biosec p {
+    text-align: justify;
+    padding-right: 2%;
+}
+
+#profilepic {
+    border-radius: 85px;
+    padding-top: 7px;
+}
+
+
+@media screen and (max-width:900px) {
+    .container-banner {
+        background-color: #cabebe;
+        text-align: center;
+        border-style: hidden;
+        border-radius: 15px;
+        font-family: 'Ruda', sans-serif;
+        display: inline;
+        margin: 30px auto;
+        width: 70%;
+        text-align: center;
+        justify-content: space-around;
+        padding-left: 3%;
+
+    }
+
+
+}
+
+
+.projects {
+    background-color: rgb(226, 217, 217);
+    border-radius: 15px;
+    border-style: hidden;
+    padding: 18px;
+    margin: 0 auto;
+    width: 65%;
+    text-align: center;
+
+}
+
+td,
+th {
+    border: 1px solid rgb(15, 14, 14);
+    padding: 0.5rem;
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(25, 159, 192);
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+tbody tr:nth-child(odd) {
+    background: #eee;
+}
+
+
+.projects h1 {
+    font-family: 'Ruda', sans-serif;
+}
+
+.projects p {
+    font-family: 'Slabo 27px', serif;
+    font-size: 20px;
+}
+
+@media screen and (max-width:350px) {
+
+    .projects {
+        background-color: rgb(226, 217, 217);
+        border-radius: 15px;
+        border-style: hidden;
+        padding: 18px;
+        margin: 0 auto;
+        width: 85%;
+        text-align: center;
+
+    }
+
+
+}
