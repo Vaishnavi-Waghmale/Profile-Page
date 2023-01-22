@@ -22,27 +22,27 @@ class Portfolio extends Component {
                             <tr>
                                 <td>1</td>
                                 <td>Company1</td>
-                                <td><a href="#">Link1</a></td>
+                                <td><a href="#home">Link1</a></td>
                             </tr>
                             <tr>
                                 <td>2</td>
                                 <td>Company2</td>
-                                <td><a href="#">Link2</a></td>
+                                <td><a href="#home">Link2</a></td>
                             </tr>
                             <tr>
                                 <td>3</td>
                                 <td>Company3</td>
-                                <td><a href="#">Link3</a></td>
+                                <td><a href="#home">Link3</a></td>
                             </tr>
                             <tr>
                                 <td>4</td>
                                 <td>Company4</td>
-                                <td><a href="#">Link4</a></td>
+                                <td><a href="#home">Link4</a></td>
                             </tr>
                             <tr>
                                 <td>5</td>
                                 <td>Company5</td>
-                                <td><a href="#">Link5</a></td>
+                                <td><a href="#home">Link5</a></td>
                             </tr>
 
                         </tbody>
