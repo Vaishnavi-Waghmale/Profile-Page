@@ -1,10 +1,10 @@
-#Profile Page Using ReactJs
-##Desktop View
+<h1>Profile Page Using ReactJs<h1/>
+<h2>Desktop View<h2/>
 <img src="Desktop View.png" />
 ---
-##Tablet View
+<h2>Tablet View<h2/>
 <img src="Tablet View.png" />
 ---
-##Mobile View
+<h2>Mobile View<h2/>
 <img src="Mobile View.png" />
 ---
