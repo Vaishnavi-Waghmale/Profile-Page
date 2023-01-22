@@ -1,6 +1,6 @@
 <h1>Profile Page Using ReactJs<h1/>
 <h2>Desktop View<h2/>
-<img src="Desktop View.png" />
+<img src="Desktop view.png" />
 <hr/>
 <h2>Tablet View<h2/>
 <img src="Tablet View.png" />
